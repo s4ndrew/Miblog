@@ -183,14 +183,14 @@ main .container_grid {
  .skill__bar--60::after {
     transform: translate(60%);
  }
- .skill__bar--30::after {
-    transform: translate(30%);
+ .skill__bar--6::after {
+    transform: translate(6%);
  }
- .skill__bar--20::after {
-    transform: translate(20%);
+ .skill__bar--11::after {
+    transform: translate(11%);
  }
- .skill__bar--18::after {
-    transform: translate(18%);
+ .skill__bar--14::after {
+    transform: translate(14%);
  }
 
 
